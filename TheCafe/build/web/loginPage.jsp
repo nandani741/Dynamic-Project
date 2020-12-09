@@ -358,12 +358,12 @@ margin-left: 30px;
 <div class="cont_info_log_sign_up">
       <div class="col_md_login">
       <h2>LOGIN</h2>  
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
+  <p>Let your desire meets a new tast. The Juice Bar & Cafe.</p> 
   <button class="btn_login" onclick="cambiar_login()">LOGIN</button>
   </div>
 <div class="col_md_sign_up">
   <h2>SIGN UP</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+<p>Let your desire meets a new tast. The Juice Bar & Cafe.</p>
 <button class="btn_sign_up" onclick="cambiar_sign_up()">SIGN UP</button>
   </div>
        </div>

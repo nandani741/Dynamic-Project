@@ -91,7 +91,7 @@
 						<li class="gallery.jsp"><a href="gallery.jsp">Gallery</a></li>
                                                 <li class="active"><a href="contact.jsp">Contact</a></li>
 						<li class="btn-cta"><a href="#"><span>Reservation</span></a></li>
-                                                <li><a href="#">
+                                                <li><a href="userProfile.jsp">
                                                 <%out.println(session.getAttribute("Email"));%>
                                                     </a></li>
 					</ul>	
